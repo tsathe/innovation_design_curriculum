@@ -23,7 +23,7 @@ Our program is structured around the following sessions:
 
 **Lean Experiments:** The final session focuses on designing quick experiments and utilizing iterative improvements to refine and optimize your solutions.
 
-While the sessions are numbered, they can be used in any order. Finally, we included a seventh session titled Pitfalls and Pivots to document reasons why this curriculum will not work. By identifying these barriers, we can best navigate how to overcome them.
+While the sessions are numbered, they can be used in any order. They can each be completed in an hour or a week. They can likely be incorporated into standard protected academic time or be done over a casual lunch. Finally, we included a seventh session titled Pitfalls and Pivots to document reasons why this curriculum will not work. By identifying these barriers, we can best navigate how to overcome them.
 
 Often, the first rule of innovation is thought to be the need to obtain intellectual protection for novel ideas. We are breaking thar rule immediately. We want this curriculum to be free and available in the public domian. By building the curriculum on GitHub, users can copy it, download it, change it, modify it, and create their own versions. We want people to create their own branches of the innovation tree. We might even pull some of the changes back into the main trunk. That is how innovation should be - creative, collaborative, and open source. So please do whatever you want with this.
 
