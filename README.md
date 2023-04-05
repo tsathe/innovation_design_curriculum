@@ -11,17 +11,17 @@ Over the course of six interactive sessions, we aim to explore whether busy resi
 
 Our program is structured around the following sessions:
 
-Complaining Rounds: In this session, we'll harness the frustrations that you experience in your daily residency work, transforming them into a constructive platform for identifying areas of improvement.
+**Complaining Rounds:** In this session, we'll harness the frustrations that you experience in your daily residency work, transforming them into a constructive platform for identifying areas of improvement.
 
-Walkabout: Observing pain points is crucial for problem-solving. We'll teach you how to recognize and assess these issues, enabling you to develop targeted solutions.
+**Walkabout:** Observing pain points is crucial for problem-solving. We'll teach you how to recognize and assess these issues, enabling you to develop targeted solutions.
 
-Stakeholder Interviews: Understanding and validating the pain points is a critical step in the design process. We'll guide you through the process of identifying and engaging with key stakeholders to ensure your solutions address real needs.
+**Stakeholder Interviews:** Understanding and validating the pain points is a critical step in the design process. We'll guide you through the process of identifying and engaging with key stakeholders to ensure your solutions address real needs.
 
-Divergent Ideation: Creativity is the lifeblood of innovation. In this session, we will introduce techniques to stimulate divergent thinking, empowering you to generate a wide range of potential solutions.
+**Divergent Ideation:** Creativity is the lifeblood of innovation. In this session, we will introduce techniques to stimulate divergent thinking, empowering you to generate a wide range of potential solutions.
 
-Prototyping: Learn how to create low-fidelity models that help you test your assumptions and validate the feasibility of your ideas. This hands-on session will equip you with the skills necessary to bring your solutions to life.
+**Prototyping:** Learn how to create low-fidelity models that help you test your assumptions and validate the feasibility of your ideas. This hands-on session will equip you with the skills necessary to bring your solutions to life.
 
-Lean Experiments: The final session focuses on designing quick experiments and utilizing iterative improvements to refine and optimize your solutions.
+**Lean Experiments:** The final session focuses on designing quick experiments and utilizing iterative improvements to refine and optimize your solutions.
 
 While the sessions are numbered, they can be used in any order. Finally, we included a seventh session titled Pitfalls and Pivots to document reasons why this curriculum will not work. By identifying these barriers, we can best navigate how to overcome them.
 
