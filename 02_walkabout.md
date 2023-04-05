@@ -1,5 +1,7 @@
 
-Title: Walkabout
+# Walkabout
+
+*Written with assistance by GPT-4*
 
 Duration: 1 hour
 
